@@ -2,4 +2,7 @@ Known factors of MM28:
 
 7
 31
+151
+233
+431
 More
